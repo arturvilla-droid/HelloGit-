@@ -1,2 +1,3 @@
 print("Hello Git")
-print("Prueba y error")
+print("Hello Git nuevamente")
+print("Hello GitHub")
